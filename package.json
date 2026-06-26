@@ -1,0 +1,18 @@
+{
+  "name": "chai-biscuit-backend",
+  "version": "1.0.0",
+  "description": "a backend at chai biscuit channel - youtube",
+  "keywords": [
+    "chai",
+    "biscuit",
+    "backend",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "tanu chaudhary",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
